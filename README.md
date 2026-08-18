@@ -6,10 +6,13 @@
 
 ## 📑 Table of Contents
 
-[📌 Background & Overview](https://claude.ai/chat/c1e15faf-9cd7-42fb-bd43-24bbf7f96058#-background--overview) 
-[📂 Dataset Description & Data Structure](https://claude.ai/chat/c1e15faf-9cd7-42fb-bd43-24bbf7f96058#-dataset-description--data-structure)
-[⚒️ Main Process](https://claude.ai/chat/c1e15faf-9cd7-42fb-bd43-24bbf7f96058#%EF%B8%8F-main-process)
-[🔎 Final Conclusion & Recommendations](https://claude.ai/chat/c1e15faf-9cd7-42fb-bd43-24bbf7f96058#-final-conclusion--recommendations)
+[📌 Background & Overview](c1e15faf-9cd7-42fb-bd43-24bbf7f96058#-background--overview) 
+
+[📂 Dataset Description & Data Structure](c1e15faf-9cd7-42fb-bd43-24bbf7f96058#-dataset-description--data-structure)
+
+[⚒️ Main Process](c1e15faf-9cd7-42fb-bd43-24bbf7f96058#%EF%B8%8F-main-process)
+
+[🔎 Final Conclusion & Recommendations](c1e15faf-9cd7-42fb-bd43-24bbf7f96058#-final-conclusion--recommendations)
 
 ---
 
